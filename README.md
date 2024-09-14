@@ -2,87 +2,76 @@
 By Joaquin Murillo
 
 ## Questions:
-There have been countless programming languages created throughout history. But why do some languages become extinct, while others become built upon and iterated? What reasons lead to programming languages becoming irrelevant? What are some features of the current programming languages that kept them relevant? Were there any external reasons that led to these outcomes?
+There have been countless programming languages created throughout history. But why do some languages become extinct, while others become built upon and iterated? What reasons lead to some programming languages becoming forgotten while others stayed relevant? Were there any external reasons that led to these outcomes? What are some examples of programming languages that have been adapted over time?
 
 ## References:
-* [Stroustrup, B. (2013). The C++ Programming Language (4th ed.). Addison-Wesley](https://www.stroustrup.com/4th.html)
-* [Van Rossum, G., & Drake Jr, F. L. (2009). The Python Language Reference Manual. Network Theory Ltd](https://dl.acm.org/doi/book/10.5555/1593511)
-* [Oracle. (2021). Java SE Documentation. Oracle Corporation](https://www.oracle.com/java/technologies/javase-documentation.html)
-* [ECMAScript. (2021). ECMAScript 2021 Language Specification. Ecma International](https://ecma-international.org/wp-content/uploads/ECMA-262_12th_edition_june_2021.pdf)
+* ["Programming Languages: Principles and Paradigms" by Maurizio Gabbrielli and Simone Martini](https://link.springer.com/book/10.1007/978-1-84882-914-5)
+* ["The Design and Evolution of C++" by Bjarne Stroustrup](https://www.stroustrup.com/dne.html)
+* ["Concepts of Programming Languages" by Robert W. Sebesta](https://www.sci.brooklyn.cuny.edu/~chuang/books/sebesta.pdf)
+* ["Structure and Interpretation of Computer Programs" by Harold Abelson and Gerald Jay Sussman](https://sarabander.github.io/sicp/html/index.xhtml)
+
+## Brief History of Programming Languages
+### Assembly ➔ High-Level Languages ➔ Domain-Specific Languages (DSLs)
+* Evolution: Early programming was done in assembly language, which is hardware-specific and low-level. The development of high-level languages like Fortran, COBOL, and later languages like Python and Java abstracted away hardware details.
+* Adaptation: Domain-Specific Languages (DSLs) like SQL for databases or HTML/CSS for web development evolved to address specific problem domains, improving developer productivity by providing specialized syntax and features.
 
 # Chatting with ChatGPT
-### Reasons Why Programming Languages Become Irrelevant
-1. Technological Obsolescence:
-* Hardware Evolution: Early languages were designed for specific hardware. As computing hardware advanced, languages that couldn't adapt became obsolete.
-* New Programming Paradigms: The rise of paradigms like object-oriented, functional, and concurrent programming made languages lacking these features less attractive.
-* Inability to Handle Modern Needs: Languages not designed to handle web development, mobile apps, or cloud computing couldn't meet new demands.
+### Factors Leading to the Extinction or Survival of Programming Languages
+1. Technological Evolution
+* Advancements in Hardware and Software: As computing hardware evolves, languages that cannot leverage new capabilities or address new challenges (like parallel processing or cloud computing) may become obsolete.
+* Language Features and Capabilities: Languages that lack modern features (such as object-oriented programming, functional programming paradigms, or strong typing) may be left behind in favor of more robust options.
 
-2. Lack of Community and Industry Support:
-* Small or Inactive Community: Without a vibrant community, a language lacks updates, libraries, and forums for problem-solving.
-* Vendor Abandonment: If a company stops supporting a language (e.g., due to bankruptcy or shifting focus), it may decline without official backing.
+2. Community and Ecosystem Support
+* Developer Community: A strong, active community contributes to the longevity of a language by providing libraries, tools, and support.
+* Ecosystem and Libraries: Languages with rich ecosystems and extensive libraries make development faster and more efficient, encouraging continued use.
 
-3. Inferior Features and Performance:
-* Poor Performance: Languages that are slow or resource-intensive can be replaced by more efficient alternatives.
-* Limited Features: Without modern features like garbage collection, multithreading, or advanced data structures, a language may fall behind.
-* Security Vulnerabilities: Languages not designed with security in mind may be abandoned in favor of safer options.
+3. Corporate and Institutional Backing
+* Industry Adoption: Languages adopted by major corporations or industries often have longer lifespans due to the investment in existing codebases.
+* Educational Institutions: Languages taught in universities and schools become ingrained in the skills of new developers, promoting their use in professional settings.
 
-4. Insufficient Ecosystem and Tooling:
-* Lack of Libraries and Frameworks: Developers prefer languages with rich ecosystems to speed up development.
-* Outdated Tooling: Modern development relies on advanced IDEs, debuggers, and package managers. Languages lacking these may be sidelined.
+4. Open Source vs. Proprietary
+* Accessibility: Open-source languages allow for community contributions and adaptations, fostering growth and relevance.
+* Proprietary Restrictions: Languages that are proprietary may suffer from limited adoption due to licensing costs or restrictions.
 
-5. Market and Industry Trends:
-* Shift in Industry Needs: As industries evolve, so do their language preferences (e.g., the move from desktop to web applications).
-* Regulatory Changes: New laws or standards may require features not supported by older languages.
+### Reasons Why Some Languages Become Forgotten While Others Stay Relevant
+1. Lack of Standardization and Maintenance
+* Obsolescence: Without ongoing maintenance and updates, languages can become incompatible with new systems or fail to meet current security standards.
+* Standardization: Languages that lack formal standards may fragment, leading to incompatibilities and reduced adoption.
 
-### Features That Keep Current Programming Languages Relevant
-1. Active Community and Open-Source Support:
-* Continuous Development: Languages like Python and JavaScript have communities that contribute to regular updates and improvements.
-* Collaborative Ecosystem: Open-source contributions lead to a wealth of libraries and frameworks.
+2. Competition from Superior Languages
+* Better Alternatives: Newer languages may offer improved performance, easier syntax, or better tools, leading developers to migrate.
+* Niche Applications: Languages designed for specific tasks may become obsolete if those tasks are better handled by more versatile languages.
 
-2. Adaptability and Evolution:
-* Regular Updates: Languages that evolve by adding new features, fixing bugs, and improving performance stay current.
-* Backward Compatibility: Maintaining compatibility ensures that existing projects remain functional.
+3.  Poor Performance and Scalability
+* Inefficiency: Languages that cannot handle large-scale applications efficiently are often abandoned in favor of more performant options.
+* Inability to Scale: In the era of big data and high-traffic applications, scalability is crucial.
 
-3. Robust Ecosystems:
-* Extensive Libraries and Frameworks: A rich ecosystem (e.g., Node.js for JavaScript, Django for Python) makes a language more versatile.
-* Tooling and IDE Support: Languages with strong tooling support improve developer productivity (e.g., IntelliJ for Java).
+4. Economic Factors
+* Cost of Training and Development: If a language requires significant investment to train developers, companies might prefer more commonly known languages.
+* Market Demand: Languages not in demand may be dropped from curriculums and job requirements, leading to a decline in skilled developers.
 
-4. Performance and Efficiency:
-* Optimized Compilers and Interpreters: Enhancements in how code is executed keep languages competitive.
-* Resource Management: Effective memory and process management make a language suitable for large-scale applications.
+### External Reasons Affecting the Outcomes
+1. Changes in Industry Trends
+* Emerging Technologies: The rise of mobile computing, web development, artificial intelligence, and cloud services shifts the demand toward languages suited for these fields.
+* Regulatory Changes: Legal requirements for security and data protection can make certain languages less favorable.
 
-5. Versatility and Multi-Paradigm Support:
-* Support for Multiple Paradigms: Languages like Scala support object-oriented and functional programming, increasing their applicability.
-* Cross-Platform Compatibility: Languages that run on various operating systems attract a wider audience.
+2. Economic Shifts
+* Dot-com Bubble Burst: Economic downturns can lead to reduced investment in certain technologies, affecting the languages associated with them.
+* Globalization: The global spread of technology can either promote a language (through international adoption) or marginalize it if it's not globally supported.
 
-7. Ease of Learning and Use:
-* Readable Syntax: User-friendly syntax lowers the barrier to entry for new programmers.
-* Comprehensive Documentation: Good documentation helps in learning and troubleshooting.
+3. Cultural and Educational Influences
+* Education Curricula: The programming languages taught in schools influence which languages new developers learn and use.
+* Open Source Movement: The rise of open-source software has boosted languages that support collaborative development.
 
-### External Factors Influencing Language Relevance
-1. Corporate Backing and Sponsorship:
-* Financial and Development Support: Companies like Microsoft (C#) and Google (Go) invest resources into language development.
-* Promotion and Adoption: Corporate use and promotion can lead to widespread industry adoption.
+### Examples of Programming Languages Adapted Over Time
+1.  C ➔ C++ ➔ C#
+* Evolution: C was developed in the early 1970s. C++ was created as an extension to include object-oriented features. Later, C# was developed by Microsoft, incorporating elements from both C++ and Java.
+* Adaptation: Each iteration added new features to meet modern programming needs while maintaining familiarity for developers.
 
-2. Market Demand and Job Opportunities:
-* Employment Trends: Demand for developers proficient in certain languages keeps them in use.
+2. Ruby ➔ JRuby ➔ Ruby on Rails
+* Evolution: Ruby is an object-oriented scripting language known for its simplicity and productivity. JRuby is an implementation of Ruby on the Java Virtual Machine (JVM), allowing integration with Java libraries.
+* Adaptation: Ruby on Rails, a web application framework written in Ruby, revolutionized web development with its convention over configuration approach. Continuous improvements in Ruby and its ecosystem have kept it relevant in web development.
 
-3. Technological Trends:
-* Emerging Fields: Languages that cater to new fields (e.g., Swift for iOS development) gain popularity.
-* Open-Source Movement: The rise of open-source software supports languages that embrace this philosophy.
-
-### Examples of Programming Languages Upgraded Over Time
-1. C Language:
-* From C89 to C18: Introduced new standards to improve compatibility, performance, and add features like inline functions and improved Unicode support.
-
-2. C++:
-* From C++98 to C++20: Added significant features such as smart pointers, lambda expressions, concurrency support, and modules.
-
-3. Java:
-* From Java 1.0 to Java 17: Introduced generics, enhanced concurrency utilities, lambda expressions, the Stream API, and records for data classes.
-
-4. Python:
-* Transition from Python 2 to Python 3: Made significant changes to improve consistency and eliminate legacy quirks, like unifying string types and improving integer division.
-
-5. JavaScript (ECMAScript):
-* From ES5 to ES2021: Added let and const keywords, arrow functions, promises, async/await, modules, and optional chaining.
+3. PHP 4 ➔ PHP 5 ➔ PHP 7 ➔ PHP 8
+* Evolution: PHP started as a simple scripting language for web development. PHP 5 introduced a robust object model, PHP 7 improved performance significantly, and PHP 8 added features like just-in-time compilation and union types.
+* Adaptation: By continuously adding modern features and improving performance, PHP remains one of the most widely used languages for server-side web development.
