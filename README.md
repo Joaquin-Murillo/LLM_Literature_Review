@@ -11,8 +11,8 @@ There have been countless programming languages created throughout history. But 
 * ["Structure and Interpretation of Computer Programs" by Harold Abelson and Gerald Jay Sussman](https://sarabander.github.io/sicp/html/index.xhtml)
 
 # Chatting with ChatGPT
-## Brief History of Programming Languages
-### Assembly ➔ High-Level Languages ➔ Domain-Specific Languages (DSLs)
+### Brief History of Programming Languages
+#### Assembly ➔ High-Level Languages ➔ Domain-Specific Languages (DSLs)
 * Evolution: Early programming was done in assembly language, which is hardware-specific and low-level. The development of high-level languages like Fortran, COBOL, and later languages like Python and Java abstracted away hardware details.
 * Adaptation: Domain-Specific Languages (DSLs) like SQL for databases or HTML/CSS for web development evolved to address specific problem domains, improving developer productivity by providing specialized syntax and features.
 
