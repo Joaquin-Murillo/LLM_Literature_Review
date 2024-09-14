@@ -1,5 +1,6 @@
 # LLM Literature Review
 By Joaquin Murillo
+LLM: ChatGPT
 
 ## Questions:
 There have been countless programming languages created throughout history. But why do some languages become extinct, while others become built upon and iterated? What reasons lead to some programming languages becoming forgotten while others stayed relevant? Were there any external reasons that led to these outcomes? What are some examples of programming languages that have been adapted over time?
