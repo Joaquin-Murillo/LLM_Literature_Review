@@ -10,12 +10,12 @@ There have been countless programming languages created throughout history. But 
 * ["Concepts of Programming Languages" by Robert W. Sebesta](https://www.sci.brooklyn.cuny.edu/~chuang/books/sebesta.pdf)
 * ["Structure and Interpretation of Computer Programs" by Harold Abelson and Gerald Jay Sussman](https://sarabander.github.io/sicp/html/index.xhtml)
 
+# Chatting with ChatGPT
 ## Brief History of Programming Languages
 ### Assembly ➔ High-Level Languages ➔ Domain-Specific Languages (DSLs)
 * Evolution: Early programming was done in assembly language, which is hardware-specific and low-level. The development of high-level languages like Fortran, COBOL, and later languages like Python and Java abstracted away hardware details.
 * Adaptation: Domain-Specific Languages (DSLs) like SQL for databases or HTML/CSS for web development evolved to address specific problem domains, improving developer productivity by providing specialized syntax and features.
 
-# Chatting with ChatGPT
 ### Factors Leading to the Extinction or Survival of Programming Languages
 1. Technological Evolution
 * Advancements in Hardware and Software: As computing hardware evolves, languages that cannot leverage new capabilities or address new challenges (like parallel processing or cloud computing) may become obsolete.
@@ -55,11 +55,7 @@ There have been countless programming languages created throughout history. But 
 * Emerging Technologies: The rise of mobile computing, web development, artificial intelligence, and cloud services shifts the demand toward languages suited for these fields.
 * Regulatory Changes: Legal requirements for security and data protection can make certain languages less favorable.
 
-2. Economic Shifts
-* Dot-com Bubble Burst: Economic downturns can lead to reduced investment in certain technologies, affecting the languages associated with them.
-* Globalization: The global spread of technology can either promote a language (through international adoption) or marginalize it if it's not globally supported.
-
-3. Cultural and Educational Influences
+2. Cultural and Educational Influences
 * Education Curricula: The programming languages taught in schools influence which languages new developers learn and use.
 * Open Source Movement: The rise of open-source software has boosted languages that support collaborative development.
 
