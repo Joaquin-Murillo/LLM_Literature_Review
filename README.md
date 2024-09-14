@@ -5,10 +5,10 @@ By Joaquin Murillo
 There have been countless programming languages created throughout history. But why do some languages become extinct, while others become built upon and iterated? What reasons lead to programming languages becoming irrelevant? What are some features of the current programming languages that kept them relevant? Were there any external reasons that led to these outcomes?
 
 ## References:
-* [Stroustrup, B. (2013). The C++ Programming Language (4th ed.). Addison-Wesley](https://www.stroustrup.com/4th.html).
-* Van Rossum, G., & Drake Jr, F. L. (2009). The Python Language Reference Manual. Network Theory Ltd.
-* Oracle. (2021). Java SE Documentation. Oracle Corporation.
-* ECMAScript. (2021). ECMAScript 2021 Language Specification. Ecma International.
+* [Stroustrup, B. (2013). The C++ Programming Language (4th ed.). Addison-Wesley](https://www.stroustrup.com/4th.html)
+* [Van Rossum, G., & Drake Jr, F. L. (2009). The Python Language Reference Manual. Network Theory Ltd](https://dl.acm.org/doi/book/10.5555/1593511)
+* [Oracle. (2021). Java SE Documentation. Oracle Corporation](https://www.oracle.com/java/technologies/javase-documentation.html)
+* [ECMAScript. (2021). ECMAScript 2021 Language Specification. Ecma International](https://ecma-international.org/wp-content/uploads/ECMA-262_12th_edition_june_2021.pdf)
 
 # Chatting with ChatGPT
 ### Reasons Why Programming Languages Become Irrelevant
