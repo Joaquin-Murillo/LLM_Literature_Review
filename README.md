@@ -20,7 +20,6 @@ There have been countless programming languages created throughout history. But 
 2. Lack of Community and Industry Support:
 * Small or Inactive Community: Without a vibrant community, a language lacks updates, libraries, and forums for problem-solving.
 * Vendor Abandonment: If a company stops supporting a language (e.g., due to bankruptcy or shifting focus), it may decline without official backing.
-* Educational Shift: When academic institutions stop teaching a language, fewer new developers learn it, leading to a dwindling user base.
 
 3. Inferior Features and Performance:
 * Poor Performance: Languages that are slow or resource-intensive can be replaced by more efficient alternatives.
@@ -56,10 +55,6 @@ There have been countless programming languages created throughout history. But 
 * Support for Multiple Paradigms: Languages like Scala support object-oriented and functional programming, increasing their applicability.
 * Cross-Platform Compatibility: Languages that run on various operating systems attract a wider audience.
 
-6. Educational and Industry Adoption:
-* Curriculum Inclusion: Languages taught in schools (e.g., Python) see increased adoption.
-* Industry Standards: Languages adopted as industry standards (e.g., SQL for databases) remain relevant.
-
 7. Ease of Learning and Use:
 * Readable Syntax: User-friendly syntax lowers the barrier to entry for new programmers.
 * Comprehensive Documentation: Good documentation helps in learning and troubleshooting.
@@ -71,15 +66,10 @@ There have been countless programming languages created throughout history. But 
 
 2. Market Demand and Job Opportunities:
 * Employment Trends: Demand for developers proficient in certain languages keeps them in use.
-* Community Events and Conferences: Events promote languages and keep the community engaged.
 
 3. Technological Trends:
 * Emerging Fields: Languages that cater to new fields (e.g., Swift for iOS development) gain popularity.
 * Open-Source Movement: The rise of open-source software supports languages that embrace this philosophy.
-
-4. Regulatory and Compliance Requirements:
-* Legacy Systems Maintenance: Industries bound by regulations may continue using older languages for compliance (e.g., COBOL in banking).
-* Security Standards: Languages that meet stringent security standards are preferred in sensitive industries.
 
 ### Examples of Programming Languages Upgraded Over Time
 1. C Language:
@@ -96,12 +86,3 @@ There have been countless programming languages created throughout history. But 
 
 5. JavaScript (ECMAScript):
 * From ES5 to ES2021: Added let and const keywords, arrow functions, promises, async/await, modules, and optional chaining.
-
-6. Fortran:
-* From Fortran 66 to Fortran 2018: Evolved to include modern programming constructs like modules, array operations, and object-oriented programming features.
-
-7. COBOL:
-* From COBOL 60 to COBOL 2014: Added support for object-oriented programming, XML processing, and updated to work with modern computing environments.
-
-8. Visual Basic:
-* From VB6 to VB.NET: Transitioned to the .NET framework, introducing object-oriented features and improved interoperability with other .NET languages.
