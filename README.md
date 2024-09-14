@@ -7,3 +7,4 @@ There have been countless programming languages created throughout history. But 
 ## References:
 
 # Chatting with ChatGPT
+### Reasons Why Programming Languages Become Irrelevant
