@@ -8,7 +8,7 @@ There have been countless programming languages created throughout history. But 
 
 # Chatting with ChatGPT
 ### Reasons Why Programming Languages Become Irrelevant
-1. ***Technological Obsolescence:***
+1. **Technological Obsolescence:**
 * Hardware Evolution: Early languages were designed for specific hardware. As computing hardware advanced, languages that couldn't adapt became obsolete.
 * New Programming Paradigms: The rise of paradigms like object-oriented, functional, and concurrent programming made languages lacking these features less attractive.
 * Inability to Handle Modern Needs: Languages not designed to handle web development, mobile apps, or cloud computing couldn't meet new demands.
