@@ -71,3 +71,5 @@ There have been countless programming languages created throughout history. But 
 3. PHP 4 ➔ PHP 5 ➔ PHP 7 ➔ PHP 8
 * Evolution: PHP started as a simple scripting language for web development. PHP 5 introduced a robust object model, PHP 7 improved performance significantly, and PHP 8 added features like just-in-time compilation and union types.
 * Adaptation: By continuously adding modern features and improving performance, PHP remains one of the most widely used languages for server-side web development.
+
+## Summary
