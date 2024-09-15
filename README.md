@@ -80,7 +80,7 @@ There have been countless programming languages created throughout history. But 
   * [Socio-PLT: Principles for Programming Language Adoption](https://dl.acm.org/doi/abs/10.1145/2384592.2384597?casa_token=WE8S5lBXvkYAAAAA:QnBo3sHESuGtj-lFwmi0m876Otnr8jrDVfUmygPfbiKg33A_Vr8pHl0w6dmKhkMM6qCUPqy3qnpW6A). Meyerovich, L. A., & Rabkin, A. S. (2012).
 
 2. Andreas Stefik
-Area of Influence: Human factors in programming languages, accessibility, and programming language design for education.
+* Andreas Stefik is known for his study of human factors in programming languages, accessibility, and programming language design for education.
 * Key Papers:
   * [An Empirical Investigation into Programming Language Syntax](https://dl.acm.org/doi/abs/10.1145/2534973?casa_token=CTKEoTDwFF0AAAAA:mQE7NoqzYrWSOohguc2EuOFruONH53he08CrvPC92zB6DGGz9Y6vJzHw7RI0hHlt4TfabYaxUCaxJA). Stefik, A., & Siebert, S. (2013). ACM Transactions on Computing Education (TOCE). 
 
