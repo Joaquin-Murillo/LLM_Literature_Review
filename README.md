@@ -82,7 +82,7 @@ There have been countless programming languages created throughout history. But 
 2. Andreas Stefik
 Area of Influence: Human factors in programming languages, accessibility, and programming language design for education.
 * Key Papers:
-  * [An Empirical Investigation into Programming Language Syntax. Stefik, A., & Siebert, S. (2013)](https://dl.acm.org/doi/abs/10.1145/2534973?casa_token=CTKEoTDwFF0AAAAA:mQE7NoqzYrWSOohguc2EuOFruONH53he08CrvPC92zB6DGGz9Y6vJzHw7RI0hHlt4TfabYaxUCaxJA). ACM Transactions on Computing Education (TOCE). 
+  * [An Empirical Investigation into Programming Language Syntax](https://dl.acm.org/doi/abs/10.1145/2534973?casa_token=CTKEoTDwFF0AAAAA:mQE7NoqzYrWSOohguc2EuOFruONH53he08CrvPC92zB6DGGz9Y6vJzHw7RI0hHlt4TfabYaxUCaxJA). Stefik, A., & Siebert, S. (2013). ACM Transactions on Computing Education (TOCE). 
 
 3. 
 
