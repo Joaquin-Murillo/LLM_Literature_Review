@@ -77,18 +77,6 @@ There have been countless programming languages created throughout history. But 
 * Leo A. Meyerovich is known for his empirical studies on programming language adoption and the social factors influencing it.
 * Key Papers:
   * [Empirical Analysis of Programming Language Adoption](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3pnyo7IAAAAJ&citation_for_view=3pnyo7IAAAAJ:kNdYIx-mwKoC). Meyerovich, L. A., & Rabkin, A. S. (2013).
-  * Socio-PLT: Principles for Programming Language Adoption. Meyerovich, L. A., & Rabkin, A. S. (2012).
-
-2. Benjamin S. Lerner
-* Benjamin S. Lerner focuses on programming language design, type systems, and tools to improve software reliability.
-* Key Papers:
-  * Typing the Untyped: A Sound and Complete Approach to Type-Safe JavaScript. Lerner, B. S., Grove, D., & Chambers, C. (2006).
-  * Language Support for Comprehensible Distributed Data Structures. Lerner, B. S., Wang, D., Grossman, D., & Chambers, C. (2010).
-
-3. Diomidis Spinellis
-* Diomidis Spinellis is a prominent researcher in software engineering and programming languages, focusing on code quality, maintenance, and the evolution of software systems.
-* Key Papers:
-  * The Decay and Failures of Large Open Source Software Projects. Spinellis, D. (2020).
-  * A Repository of Unix History and Evolution. Spinellis, D. (2015).
+  * [Socio-PLT: Principles for Programming Language Adoption](https://dl.acm.org/doi/abs/10.1145/2384592.2384597?casa_token=WE8S5lBXvkYAAAAA:QnBo3sHESuGtj-lFwmi0m876Otnr8jrDVfUmygPfbiKg33A_Vr8pHl0w6dmKhkMM6qCUPqy3qnpW6A). Meyerovich, L. A., & Rabkin, A. S. (2012).
 
 ## Summary
