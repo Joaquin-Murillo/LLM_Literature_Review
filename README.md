@@ -76,7 +76,7 @@ There have been countless programming languages created throughout history. But 
 1. Leo A. Meyerovich
 * Leo A. Meyerovich is known for his empirical studies on programming language adoption and the social factors influencing it.
 * Key Papers:
-  * Empirical Analysis of Programming Language Adoption. Meyerovich, L. A., & Rabkin, A. S. (2013).
+  * [Empirical Analysis of Programming Language Adoption](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3pnyo7IAAAAJ&citation_for_view=3pnyo7IAAAAJ:kNdYIx-mwKoC). Meyerovich, L. A., & Rabkin, A. S. (2013).
   * Socio-PLT: Principles for Programming Language Adoption. Meyerovich, L. A., & Rabkin, A. S. (2012).
 
 2. Benjamin S. Lerner
