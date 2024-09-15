@@ -84,6 +84,9 @@ There have been countless programming languages created throughout history. But 
 * Key Papers:
   * [An Empirical Investigation into Programming Language Syntax](https://dl.acm.org/doi/abs/10.1145/2534973?casa_token=CTKEoTDwFF0AAAAA:mQE7NoqzYrWSOohguc2EuOFruONH53he08CrvPC92zB6DGGz9Y6vJzHw7RI0hHlt4TfabYaxUCaxJA). Stefik, A., & Siebert, S. (2013). ACM Transactions on Computing Education (TOCE). 
 
-3. 
+3. Simon Peyton Jones
+* Simon Peyton Jones is widely recognized for his studies on functional programming languages, type systems, compiler design (notably Haskell).
+* Key Papers:
+  * [The Implementation of Functional Programming Languages](https://dl.acm.org/doi/abs/10.5555/1096899). Peyton Jones, S. L. (1987). Prentice Hall International Series in Computer Science.
 
 ## Summary
